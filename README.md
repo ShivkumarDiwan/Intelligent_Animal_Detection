@@ -13,7 +13,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/HRISHI-26/Intelligent-Animal-Detection.git
+  git clone https://github.com/ShivkumarDiwan/Intelligent_Animal_Detection
 ```
 
 Go to the project directory
