@@ -19,6 +19,6 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Intelligent-Animal-Detection
+  cd Intelligent_Animal_Detection
 ```
 
